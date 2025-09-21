@@ -2,9 +2,10 @@
 
 <h1 align="center"> Hey, I'm <strong>Volkan Gümüş</strong>
 
-<p align="center">
+<h4 align="center">
   <em>Full-stack Web / Mobile Developer</em>
-</p></h1>
+</h4>
+</h1>
 
 
 
