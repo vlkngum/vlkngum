@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F9CF5&width=720&lines=Software+Developer;React+%2F+Next.js+%2F+C%23+%2F+WPF;Mobile+with+Kotlin+%2F+Android+Studio;UI+Design+with+Figma" alt="typing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F9CF5&center=true&vCenter=true&width=720&lines=Software+Full-Stack+Developer;React+%2F+Next.js+%2F+C%23+%2F+WPF;Mobile+with+React+Native+%2F+Android+Studio;UI+Design+with+Figma" alt="typing">
 </p>
+
 
 ---
 
