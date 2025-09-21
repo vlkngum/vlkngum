@@ -6,13 +6,9 @@
   <em>Full-stack / Mobil geliştirici • Next.js, TypeScript, React Native</em>
 </p>
 
----
-
-### 🖤 Hakkımda
-Koyu temayı severim. Yazılımda web & mobil üzerine takılıyorum.  
-Next.js ve React Native ile projeler geliştiriyorum, arada saçma ama eğlenceli fikirler denerim.  
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F9CF5&width=720&lines=Yaz%C4%B1l%C4%B1m+geli%C5%9Ftiriyorum;Next.js+%2F+TypeScript;Mobil+uygulamalar+ve+frontend" alt="typing">
+</p>
 
 ### ⚡ Teknolojiler
 <p align="center">
