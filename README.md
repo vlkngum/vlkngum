@@ -1,11 +1,6 @@
 <!-- Modern / Dark themed GitHub Profile README -->
 
-<!-- Banner (replace with your own image link) -->
-<p align="center">
-  <img src="https://placehold.co/1200x300?text=Volkan+G%C3%BCm%C3%BC%C5%9F" alt="banner"/>
-</p>
-
-<h1 align="center">👋 Hey, I'm <strong>Volkan Gümüş</strong></h1>
+<h1 align="center"> Hey, I'm <strong>Volkan Gümüş</strong></h1>
 
 <p align="center">
   <em>Full-stack Web / Mobile Developer</em>
