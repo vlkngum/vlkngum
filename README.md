@@ -16,7 +16,6 @@
 
 ---
 
-### ⚡ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
