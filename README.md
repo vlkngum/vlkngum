@@ -1,10 +1,12 @@
 <!-- Modern / Dark themed GitHub Profile README -->
 
-<h1 align="center"> Hey, I'm <strong>Volkan Gümüş</strong></h1>
+<h1 align="center"> Hey, I'm <strong>Volkan Gümüş</strong>
 
 <p align="center">
   <em>Full-stack Web / Mobile Developer</em>
-</p>
+</p></h1>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F9CF5&center=true&vCenter=true&width=720&lines=Software+Full-Stack+Developer;React+%2F+Next.js+%2F+C%23+%2F+WPF;Mobile+with+React+Native+%2F+Android+Studio;UI+Design+with+Figma" alt="typing">
