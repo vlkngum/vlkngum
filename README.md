@@ -8,7 +8,7 @@
 <h1 align="center">👋 Hey, I'm <strong>Volkan Gümüş</strong></h1>
 
 <p align="center">
-  <em>Full-stack / Mobile Developer • React, Next.js, C# / WPF, Kotlin</em>
+  <em>Full-stack Web / Mobile Developer</em>
 </p>
 
 <p align="center">
@@ -30,14 +30,7 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-#### Volkan Gümüş's GitHub Stats
-- ⭐ **Total Stars Earned:** 8  
-- 📂 **Total Repositories:** (you can count from your profile)  
-- 📝 **All Time Commits:** (update with your total commit count)  
-- 🔄 **Total Commits (last year):** 25  
+--- 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vlkngum&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
